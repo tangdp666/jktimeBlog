@@ -1,0 +1,4 @@
+# Project exclude paths
+/jk_admin/target/
+/jk_blog/target/
+/jk_framework/target/
